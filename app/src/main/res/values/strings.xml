@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CadastroMorador</string>
+    <string name="nome_marador">Nome</string>
+    <string name="email_morador">email</string>
+    <string name="idade_morador">Idade</string>
+    <string name="salvar">salvar</string>
+</resources>
